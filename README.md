@@ -11,7 +11,7 @@ In my opinion, beauty is in simplicity. As a software developer, I enjoy making 
 **About my Personal Stuffs:**
 
 - 🖥️ I’m currently working on something cool;
-- 📚 I’m currently learningBasics of Industrial Programming;
+- 📚 I’m currently learning Basics of Industrial Programming;
 - 🖊️ Ask me about anything, I'm always happy to help.
 
 📈 **My GitHub Stats:**
